@@ -1,3 +1,9 @@
+gazebo8 (8.1.1-1~xenial) xenial; urgency=medium
+
+  * gazebo8 8.1.1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 05 Jun 2017 16:53:28 +0200
+
 gazebo8 (8.1.0-1~xenial) xenial; urgency=medium
 
   * gazebo8 8.1.0-1 release
