@@ -1,3 +1,9 @@
+gazebo8 (8.3.0-1~yakkety) yakkety; urgency=medium
+
+  * gazebo8 8.3.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Sat, 10 Feb 2018 11:02:10 -0800
+
 gazebo8 (8.2.0-1~yakkety) yakkety; urgency=medium
 
   * gazebo8 8.2.0-1 release
