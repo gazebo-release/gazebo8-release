@@ -1,5 +1,11 @@
 gazebo8 (8.3.0-1~zesty) zesty; urgency=medium
 
+  * gazebo8 8.4.0-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Wed, 14 Mar 2018 15:53:31 -0800
+
+gazebo8 (8.3.0-1~zesty) zesty; urgency=medium
+
   * gazebo8 8.3.0-1 release
 
  -- Louise Poubel <louise@openrobotics.org>  Sat, 10 Feb 2018 11:02:11 -0800
